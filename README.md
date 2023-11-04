@@ -35,4 +35,4 @@ TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「�
 憧憬と屍の道 #OPENNING #SNK | czJHHta2vz8
 Starline (feat. Sennzai) | WTZR8LdfWtI
 Kaguya | jKklqiRhY1o
-Scarlet Pulsation | アルバ・セラ【OFFICIAL VIDEO】 | oGVQJIU9k5Q
+Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | oGVQJIU9k5Q
