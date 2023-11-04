@@ -36,3 +36,32 @@ TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「�
 Starline (feat. Sennzai) | [WTZR8LdfWtI](https://www.youtube.com/watch?v=WTZR8LdfWtI)
 Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
+
+name
+-
+Radwimps
+Kana Hanazawa
+Taku Iwasaki
+Hiroyuki Sawano
+Asian Kung-Fu Generation
+RADWIMPS
+MYTH & ROID
+Japanese Breakfast
+mitski
+PSYQUI
+Night Tempo #FUTURFUNK
+REGALILIA
+Barrage Am Ring
+Sakuzyo
+Shigeo Sekito
+Kumi Tanioka
+Hiroyuki Sawano #COMPOSER
+Yuki Hayashi
+yuta orisaka
+Hideki Naganuma
+Mika Kobayashi
+KOHTA YAMAMOTO
+Sayoko Takayama
+Takahiro Obata
+Kazuma Jinnouchi
+Asami Tachibana
