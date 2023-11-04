@@ -37,31 +37,31 @@ Starline (feat. Sennzai) | [WTZR8LdfWtI](https://www.youtube.com/watch?v=WTZR8Ld
 Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
 
-name
--
-Radwimps
-Kana Hanazawa
-Taku Iwasaki
-Hiroyuki Sawano
-Asian Kung-Fu Generation
-RADWIMPS
-MYTH & ROID
-Japanese Breakfast
-mitski
-PSYQUI
-Night Tempo #FUTURFUNK
-REGALILIA
-Barrage Am Ring
-Sakuzyo
-Shigeo Sekito
-Kumi Tanioka
-Hiroyuki Sawano #COMPOSER
-Yuki Hayashi
-yuta orisaka
-Hideki Naganuma
-Mika Kobayashi
-KOHTA YAMAMOTO
-Sayoko Takayama
-Takahiro Obata
-Kazuma Jinnouchi
-Asami Tachibana
+id|name
+-|-
+01 | Radwimps
+02 | Kana Hanazawa
+03 | Taku Iwasaki
+04 | Hiroyuki Sawano
+05 | Asian Kung-Fu Generation
+06 | RADWIMPS
+07 | MYTH & ROID
+08 | Japanese Breakfast
+09 | mitski
+10 | PSYQUI
+11 | Night Tempo #FUTURFUNK
+12 | REGALILIA
+13 | Barrage Am Ring
+14 | Sakuzyo
+15 | Shigeo Sekito
+16 | Kumi Tanioka
+17 | Hiroyuki Sawano #COMPOSER
+18 | Yuki Hayashi
+19 | yuta orisaka
+20 | Hideki Naganuma
+21 | Mika Kobayashi
+22 | KOHTA YAMAMOTO
+23 | Sayoko Takayama
+24 | Takahiro Obata
+25 | Kazuma Jinnouchi
+26 | Asami Tachibana
