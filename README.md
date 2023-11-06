@@ -36,6 +36,7 @@ TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「�
 Starline (feat. Sennzai) | [WTZR8LdfWtI](https://www.youtube.com/watch?v=WTZR8LdfWtI)
 Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
+People 1 - Joyato |
 
 id|name
 -|-
