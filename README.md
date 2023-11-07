@@ -38,7 +38,6 @@ Starline (feat. Sennzai) | [WTZR8LdfWtI](https://www.youtube.com/watch?v=WTZR8Ld
 Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
 People 1 - Joyato | [aZGfrVK1T5Y](https://www.youtube.com/watch?v=aZGfrVK1T5Y)
-MYTH & ROID - Paradisus Paradoxum | [9amPGYrVxFA](https://www.youtube.com/watch?v=9amPGYrVxFA)
 
 id|name
 -|-
