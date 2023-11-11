@@ -38,6 +38,7 @@ Starline (feat. Sennzai) | [WTZR8LdfWtI](https://www.youtube.com/watch?v=WTZR8Ld
 Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
 People 1 - Joyato | [aZGfrVK1T5Y](https://www.youtube.com/watch?v=aZGfrVK1T5Y)
+Frederic - Oddloop | (smObR_8q5UQ)[https://www.youtube.com/watch?v=smObR_8q5UQ]
 
 id|name
 -|-
