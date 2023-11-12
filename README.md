@@ -42,29 +42,36 @@ Frederic - Oddloop | [smObR_8q5UQ](https://www.youtube.com/watch?v=smObR_8q5UQ)
 
 id|name
 -|-
-01 | Radwimps
-02 | Kana Hanazawa
-03 | Taku Iwasaki
-04 | Hiroyuki Sawano
-05 | Asian Kung-Fu Generation
-06 | RADWIMPS
-07 | MYTH & ROID
-08 | Japanese Breakfast
-09 | mitski
-10 | PSYQUI
-11 | Night Tempo #FUTURFUNK
-12 | REGALILIA
-13 | Barrage Am Ring
-14 | Sakuzyo
-15 | Shigeo Sekito
-16 | Kumi Tanioka
-17 | Hiroyuki Sawano #COMPOSER
-18 | Yuki Hayashi
-19 | yuta orisaka
-20 | Hideki Naganuma
-21 | Mika Kobayashi
-22 | KOHTA YAMAMOTO
-23 | Sayoko Takayama
-24 | Takahiro Obata
-25 | Kazuma Jinnouchi
-26 | Asami Tachibana
+01 | Kana Hanazawa
+02 | Taku Iwasaki
+03 | Asian Kung-Fu Generation
+04 | RADWIMPS
+05 | MYTH & ROID
+06 | Japanese Breakfast
+07 | Mitski
+08 | PSYQUI
+09 | Night Tempo #FUTURFUNK
+10 | REGALILIA
+11 | Barrage Am Ring
+12 | Sakuzyo
+13 | Shigeo Sekito
+14 | Kumi Tanioka
+15 | Hiroyuki Sawano #COMPOSER
+16 | Yuki Hayashi
+17 | Yuta Orisaka
+18 | Hideki Naganuma
+19 | Mika Kobayashi
+20 | KOHTA YAMAMOTO
+21 | Sayoko Takayama
+22 | Takahiro Obata
+23 | Kazuma Jinnouchi
+24 | Asami Tachibana
+25 | Kurokotei
+26 | Creepy Nuts
+27 | YOASOBI
+28 | Ado
+29 | KANA-BOON
+30 | MILGRAM
+31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
+32 | Syudou
+33 | Kanon Wakeshima
