@@ -75,3 +75,4 @@ id|name
 31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
 32 | Syudou
 33 | Kanon Wakeshima
+34 | Aqu3ra
