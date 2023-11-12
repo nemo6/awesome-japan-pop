@@ -39,6 +39,7 @@ Kaguya | [jKklqiRhY1o](https://www.youtube.com/watch?v=jKklqiRhY1o)
 Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | [oGVQJIU9k5Q](https://www.youtube.com/watch?v=oGVQJIU9k5Q)
 People 1 - Joyato | [aZGfrVK1T5Y](https://www.youtube.com/watch?v=aZGfrVK1T5Y)
 Frederic - Oddloop | [smObR_8q5UQ](https://www.youtube.com/watch?v=smObR_8q5UQ)
+Oisicle Melonpan - look at the sea | [wHqNqc_rdSc](https://www.youtube.com/watch?v=wHqNqc_rdSc)
 
 id|name
 -|-
