@@ -43,6 +43,7 @@ Oisicle Melonpan - look at the sea | [wHqNqc_rdSc](https://www.youtube.com/watch
 Hoshino Mitsuki - Suzume | [DQnjLOOjy1Y](https://www.youtube.com/watch?v=DQnjLOOjy1Y)
 Aiobahn - heart 2 heart |
 Aiobahn feat. KOTOKO - INTERNET YAMERO |
+RetBear - Atamannaka DEAD END | [unLtq0BpEQ](https://www.youtube.com/watch?v=unLtq0BpEQc)
 
 id|name
 -|-
