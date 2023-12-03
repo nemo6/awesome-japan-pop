@@ -17,8 +17,8 @@ The Other Side of the Wall | [72_Z-JCxacY](https://www.youtube.com/watch?v=72_Z-
 Overdose | [dtN5DJ9Gvh4](https://www.youtube.com/watch?v=dtN5DJ9Gvh4)
 Hex | [2BeDX97m26M](https://www.youtube.com/watch?v=2BeDX97m26M)
 Tsukiakari No Michishirube | [sSLtqAr32rA](https://www.youtube.com/watch?v=sSLtqAr32rA)
-YOASOBI「アイドル」 Official Music Video | [ZRtdQ81jPUQ](https://www.youtube.com/watch?v=ZRtdQ81jPUQ)
-YOASOBI Gunjou / Gunjō 群青 | [NyUTYwZe_l4](https://www.youtube.com/watch?v=NyUTYwZe_l4)
+YOASOBI「アイドル」(idol) Official Music Video | [ZRtdQ81jPUQ](https://www.youtube.com/watch?v=ZRtdQ81jPUQ)
+YOASOBI Gunjou / Gunjō 群青 (ultramarine) | [NyUTYwZe_l4](https://www.youtube.com/watch?v=NyUTYwZe_l4)
 BLUE feat. kojikoji | [YnnryUwfSE0](https://www.youtube.com/watch?v=YnnryUwfSE0)
 Shigeo Sekito - The word II, is so damn good #CLASSICAL #JAPAN | [sUD7ICphL1k](https://www.youtube.com/watch?v=sUD7ICphL1k)
 Black Rover | [V_yI8Tjx_Xo](https://www.youtube.com/watch?v=V_yI8Tjx_Xo)
@@ -45,6 +45,31 @@ Aiobahn - heart 2 heart |
 Aiobahn feat. KOTOKO - INTERNET YAMERO |
 RetBear - Atamannaka DEAD END | [unLtq0BpEQ](https://www.youtube.com/watch?v=unLtq0BpEQc)
 ReoNa, Hiroyuki Sawano - time | https://www.youtube.com/watch?v=mCfYrlc_OcY
+Yoasobi - Probably ( たぶん) (Tabun) |
+Yoasobi - Racing into the Night (夜に駆ける) (Yoru ni Kakeru) |
+YOASOBI - Monster (괴물) |
+YOASOBI - Kaibutsu |
+Hanatan - Senbonzakura (千本桜) |
+Ado - うっせぇわ | from: \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음
+
+id|name
+-|-
+1 | PSYQUI - ヒステリックナイトガール ft. Such
+2 | PSYQUI - Mend Your Ways
+3 | PSYQUI - Fly to the moon ft. 中村さんそ
+
+id|name
+-|-
+1 | Sylrica - Sweetie
+2 | Sylrica - Destiny
+3 | Sylrica - Love In Disguise!
+4 | Sylrica - Sadokuu (Funk Guitar Edit)
+5 | Sylrica - [ELEANOR FORTE] This New World
+6 | Sylrica - Medicine Full Ver. [Ft. Eleanor Forte]
+
+id | name
+-|-
+1 | frad - first date
 
 id|name
 -|-
