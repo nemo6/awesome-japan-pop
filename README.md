@@ -68,10 +68,6 @@ id|name
 5 | Sylrica - [ELEANOR FORTE] This New World
 6 | Sylrica - Medicine Full Ver. [Ft. Eleanor Forte]
 
-id | name
--|-
-1 | frad - first date
-
 id|name
 -|-
 01 | Kana Hanazawa
@@ -93,7 +89,7 @@ id|name
 17 | Yuta Orisaka
 18 | Hideki Naganuma
 19 | Mika Kobayashi
-20 | KOHTA YAMAMOTO
+20 | Kohta Yamamoto
 21 | Sayoko Takayama
 22 | Takahiro Obata
 23 | Kazuma Jinnouchi
