@@ -2,7 +2,7 @@
 
 name|url
 -|-
-Creepy Nuts – Daten (堕天) / THE FIRST TAKE #JAPAN ( Openning 1 : Call of the Night ) | https://www.youtube.com/watch?v=LoO_AJD_KCc
+Creepy Nuts – Daten (堕天) / THE FIRST TAKE ( Opening : Call of the Night ) | https://www.youtube.com/watch?v=LoO_AJD_KCc
 KANA-BOON（谷口鮪）× ネクライトーキー（もっさ） - ないものねだり / THE FIRST TAKE | https://www.youtube.com/watch?v=_ZyD4n5zqxA
 Naimononedari Revenge the First Take | https://www.youtube.com/watch?v=R2OvE1oX_fs
 鈴木雅之 - DADDY ! DADDY ! DO ! feat. 鈴木愛理 / THE FIRST TAKE | https://www.youtube.com/watch?v=qIBWRPqJcGQ
@@ -25,7 +25,7 @@ Black Rover | https://www.youtube.com/watch?v=V_yI8Tjx_Xo
 BRADIO - Golden Liar (OFFICIAL VIDEO) | https://www.youtube.com/watch?v=saOq9S8mfSc
 喜劇 | https://www.youtube.com/watch?v=URR_Nv-6MZs
 DADARAY 「イキツクシ」 | https://www.youtube.com/watch?v=RVwj5o7AUxc
-Kanon Wakeshima~Still Doll *Instrumental* (No back vocals) #JAPAN #ANIME | https://www.youtube.com/watch?v=ZYlfvye6X64
+Kanon Wakeshima~Still Doll *Instrumental* (No back vocals) | https://www.youtube.com/watch?v=ZYlfvye6X64
 分島花音 [Kanon Wakeshima] - ツキナミ [Tsukinami] (FULL ALBUM) | https://www.youtube.com/watch?v=Z-4P3w2I814
 Inside Joke/ZUTOMAYO - lyrics [Kanji, Romaji, ENG] | https://www.youtube.com/watch?v=GC6PToGvCvg
 Yume Utsutsu | https://www.youtube.com/watch?v=AJdTBPuZkHU
@@ -33,7 +33,7 @@ Yume Utsutsu | https://www.youtube.com/watch?v=AJdTBPuZkHU
 MILGRAM -ミルグラム- / エス「アンダーカバー」MV | https://www.youtube.com/watch?v=CZn-dx4O4gA
 TVアニメ「黒の召喚士」OPムービー【レトベア（unknown Vo：10fu）「頭ん中DEAD END」】 | https://www.youtube.com/watch?v=wj_gULGftds
 TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「ギャンブル」 | https://www.youtube.com/watch?v=EcAEWAQR9M4
-憧憬と屍の道 #OPENNING #SNK | https://www.youtube.com/watch?v=czJHHta2vz8
+憧憬と屍の道 ( Opening: SNK ) | https://www.youtube.com/watch?v=czJHHta2vz8
 Starline (feat. Sennzai) | https://www.youtube.com/watch?v=WTZR8LdfWtI
 Kaguya | https://www.youtube.com/watch?v=jKklqiRhY1o
 Scarlet Pulsation \| https://www.youtube.com/watch?v=oGVQJIU9k5Q
