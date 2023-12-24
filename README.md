@@ -1,4 +1,4 @@
-# awesome-japan-pop
+# awesome-japan-pop-jpop
 
 name|url
 -|-
