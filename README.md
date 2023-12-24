@@ -45,7 +45,7 @@ Aiobahn - heart 2 heart |
 Aiobahn feat. KOTOKO - INTERNET YAMERO |
 RetBear - Atamannaka DEAD END | https://www.youtube.com/watch?v=unLtq0BpEQc
 ReoNa, Hiroyuki Sawano - time | https://www.youtube.com/watch?v=mCfYrlc_OcY
-YOASOBI - Probably ( たぶん) (Tabun) |
+YOASOBI - Probably ( たぶん ) (Tabun) |
 YOASOBI - Racing into the Night (夜に駆ける) (Yoru ni Kakeru) |
 YOASOBI - Monster ( Opening : Beastars Season 2 ) |
 YOASOBI - Kaibutsu |
