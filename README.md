@@ -36,7 +36,7 @@ TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「�
 憧憬と屍の道 ( Opening: SNK ) | https://www.youtube.com/watch?v=czJHHta2vz8
 Starline (feat. Sennzai) | https://www.youtube.com/watch?v=WTZR8LdfWtI
 Kaguya | https://www.youtube.com/watch?v=jKklqiRhY1o
-Scarlet Pulsation \| https://www.youtube.com/watch?v=oGVQJIU9k5Q
+Scarlet Pulsation \| アルバ・セラ【OFFICIAL VIDEO】 | https://www.youtube.com/watch?v=oGVQJIU9k5Q
 People 1 - Joyato | https://www.youtube.com/watch?v=aZGfrVK1T5Y
 Frederic - Oddloop | https://www.youtube.com/watch?v=smObR_8q5UQ
 Oisicle Melonpan - look at the sea | https://www.youtube.com/watch?v=wHqNqc_rdSc
