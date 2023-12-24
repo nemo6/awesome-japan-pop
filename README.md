@@ -2,7 +2,7 @@
 
 name|url
 -|-
-Creepy Nuts – 堕天 / THE FIRST TAKE #JAPAN | [LoO_AJD_KCc](https://www.youtube.com/watch?v=LoO_AJD_KCc)
+Creepy Nuts – Daten (堕天) / THE FIRST TAKE #JAPAN ( Openning 1 : Call of the Night ) | [LoO_AJD_KCc](https://www.youtube.com/watch?v=LoO_AJD_KCc)
 KANA-BOON（谷口鮪）× ネクライトーキー（もっさ） - ないものねだり / THE FIRST TAKE | [_ZyD4n5zqxA](https://www.youtube.com/watch?v=_ZyD4n5zqxA)
 Naimononedari Revenge the First Take | [R2OvE1oX_fs](https://www.youtube.com/watch?v=R2OvE1oX_fs)
 鈴木雅之 - DADDY ! DADDY ! DO ! feat. 鈴木愛理 / THE FIRST TAKE | [qIBWRPqJcGQ](https://www.youtube.com/watch?v=qIBWRPqJcGQ)
@@ -45,9 +45,9 @@ Aiobahn - heart 2 heart |
 Aiobahn feat. KOTOKO - INTERNET YAMERO |
 RetBear - Atamannaka DEAD END | [unLtq0BpEQ](https://www.youtube.com/watch?v=unLtq0BpEQc)
 ReoNa, Hiroyuki Sawano - time | [mCfYrlc_OcY](https://www.youtube.com/watch?v=mCfYrlc_OcY)
-Yoasobi - Probably ( たぶん) (Tabun) |
-Yoasobi - Racing into the Night (夜に駆ける) (Yoru ni Kakeru) |
-YOASOBI - Monster (괴물) |
+YOASOBI - Probably ( たぶん) (Tabun) |
+YOASOBI - Racing into the Night (夜に駆ける) (Yoru ni Kakeru) |
+YOASOBI - Monster ( Opening : Beastars Season 2 ) |
 YOASOBI - Kaibutsu |
 Hanatan - Senbonzakura (千本桜) |
 Ado - うっせぇわ | from : \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음
@@ -101,6 +101,7 @@ id|name
 28 | Ado
 29 | KANA-BOON
 30 | MILGRAM
+31 | Alohaii / Lone Alpha
 31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
 32 | Syudou
 33 | Kanon Wakeshima
