@@ -55,11 +55,15 @@ Never Stop (feat. Laco) | https://www.youtube.com/watch?v=dH7DQfDAR4A
 Lone Alpha - Repeat (feat. Rachie) |
 Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://www.youtube.com/watch?v=oKuhRPtwm9M
 
+# PSYQUI
+
 id|name
 -|-
 1 | PSYQUI - ヒステリックナイトガール ft. Such
 2 | PSYQUI - Mend Your Ways
 3 | PSYQUI - Fly to the moon ft. 中村さんそ
+
+# Sylrica
 
 id|name
 -|-
@@ -70,16 +74,18 @@ id|name
 5 | Sylrica - [ELEANOR FORTE] This New World
 6 | Sylrica - Medicine Full Ver. [Ft. Eleanor Forte]
 
+# ARTIST
+
 id|name
 -|-
-01 | Kana Hanazawa
+01 | Kana Hanazawa ( singer, girly )
 02 | Taku Iwasaki
 03 | Asian Kung-Fu Generation
 04 | RADWIMPS
-05 | MYTH & ROID
+05 | MYTH & ROID ( singer, anime )
 06 | Japanese Breakfast
 07 | Mitski
-08 | PSYQUI
+08 | PSYQUI ( electro )
 09 | Night Tempo #FUTURFUNK
 10 | REGALILIA
 11 | Barrage Am Ring
@@ -97,14 +103,14 @@ id|name
 23 | Kazuma Jinnouchi
 24 | Asami Tachibana
 25 | Kurokotei
-26 | Creepy Nuts
-27 | YOASOBI
-28 | Ado
-29 | KANA-BOON
+26 | Creepy Nuts ( rock )
+27 | YOASOBI ( singer )
+28 | Ado ( pop,singer )
+29 | KANA-BOON ( singer, anime )
 30 | MILGRAM
-31 | Alohaii / Lone Alpha
+31 | Alohaii / Lone Alpha ( girly )
 31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
 32 | Syudou
-33 | Kanon Wakeshima
+33 | Kanon Wakeshima ( singer, epic, classic )
 34 | Aqu3ra
 35 | ROOKiEZ is PUNK'D ( rock )
