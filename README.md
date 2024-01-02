@@ -106,3 +106,4 @@ id|name
 32 | Syudou
 33 | Kanon Wakeshima
 34 | Aqu3ra
+35 | ROOKiEZ is PUNK'D ( rock )
