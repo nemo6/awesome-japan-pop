@@ -53,6 +53,7 @@ Hanatan - Senbonzakura (千本桜) |
 Ado - うっせぇわ | from : \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음
 Never Stop (feat. Laco) | https://www.youtube.com/watch?v=dH7DQfDAR4A
 Lone Alpha - Repeat (feat. Rachie) |
+Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://www.youtube.com/watch?v=oKuhRPtwm9M
 
 id|name
 -|-
