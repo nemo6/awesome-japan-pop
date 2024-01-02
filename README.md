@@ -63,7 +63,7 @@ id|name
 2 | PSYQUI - Mend Your Ways
 3 | PSYQUI - Fly to the moon ft. 中村さんそ
 
-# Sylrica
+# SYLRICA
 
 id|name
 -|-
@@ -114,3 +114,4 @@ id|name
 33 | Kanon Wakeshima ( singer, epic, classic )
 34 | Aqu3ra
 35 | ROOKiEZ is PUNK'D ( rock )
+36 | NITRO MICROPHONE UNDERGROUND ( rap )
