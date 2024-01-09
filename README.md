@@ -54,6 +54,7 @@ Ado - うっせぇわ | from : \[Playlist\] 피곤한 일상으로부터 신나�
 Never Stop (feat. Laco) | https://www.youtube.com/watch?v=dH7DQfDAR4A
 Lone Alpha - Repeat (feat. Rachie) |
 Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://www.youtube.com/watch?v=oKuhRPtwm9M
+Lanndo, Reol - No title ( Seaside Remix ) | https://www.youtube.com/watch?v=xPrygGM4iTc
 
 # PSYQUI
 
@@ -74,7 +75,7 @@ id|name
 5 | Sylrica - [ELEANOR FORTE] This New World
 6 | Sylrica - Medicine Full Ver. [Ft. Eleanor Forte]
 
-# ARTIST
+# AUTHOR
 
 id|name
 -|-
