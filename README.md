@@ -112,8 +112,9 @@ id|name
 31 | Alohaii / Lone Alpha ( girly )
 31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
 32 | Syudou
-33 | Amber's Official Channel
 33 | Kanon Wakeshima ( singer, epic, classic )
 34 | Aqu3ra
 35 | ROOKiEZ is PUNK'D ( rock )
 36 | NITRO MICROPHONE UNDERGROUND ( rap )
+35 | Amber's Official Channel
+37 | HIGH and MIGHTY COLOR
