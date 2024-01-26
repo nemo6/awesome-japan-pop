@@ -55,6 +55,8 @@ Never Stop (feat. Laco) | https://www.youtube.com/watch?v=dH7DQfDAR4A
 Lone Alpha - Repeat (feat. Rachie) |
 Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://www.youtube.com/watch?v=oKuhRPtwm9M
 Lanndo, Reol - No title ( Seaside Remix ) | https://www.youtube.com/watch?v=xPrygGM4iTc
+REOL - 宵々古今 / YoiYoi Kokon | https://www.youtube.com/watch?v=76k8Ipst5dE
+Kagamine Len feat. the Girls - Plus Danshi | https://www.youtube.com/watch?v=RIA-vEJB1Aw
 
 # PSYQUI
 
@@ -118,3 +120,9 @@ id|name
 36 | NITRO MICROPHONE UNDERGROUND ( rap )
 35 | Amber's Official Channel
 37 | HIGH and MIGHTY COLOR
+
+# PLAYLIST
+
+id|name
+-|-
+Reol Playlist 【れをる メドレー 】| https://www.youtube.com/watch?v=76k8Ipst5dE
