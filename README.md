@@ -77,7 +77,7 @@ id|name
 5 | Sylrica - [ELEANOR FORTE] This New World
 6 | Sylrica - Medicine Full Ver. [Ft. Eleanor Forte]
 
-# AUTHOR
+# COMPOSER / SINGER
 
 id|name
 -|-
