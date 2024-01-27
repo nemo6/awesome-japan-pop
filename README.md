@@ -9,7 +9,7 @@ Naimononedari Revenge the First Take | https://www.youtube.com/watch?v=R2OvE1oX_
 NIGHT RUNNING | https://www.youtube.com/watch?v=3T3ofoKfEoY
 なりたいわ (feat.×) | https://www.youtube.com/watch?v=-6i3IvR6dA0
 ブラッドベリ／てにをは（cover）Boalnten 【ぼらんてぃーん】 | https://www.youtube.com/watch?v=IGNg0DAMR3k
-【オリジナルMV】VALIS #004「開幕ゼノパレード」【VALIS合唱】 | https://www.youtube.com/watch?v=EzPnmCZw02c
+オリジナルMV VALIS #004 開幕ゼノパレード VALIS合唱 | https://www.youtube.com/watch?v=EzPnmCZw02c
 ヤツメ穴 | https://www.youtube.com/watch?v=C9PFVo1FEwU
 十明 - 灰かぶり [Official Lyric Video] | https://www.youtube.com/watch?v=rtFIEVMgj7A
 MILGRAM - After Pain (Off Voice) | https://www.youtube.com/watch?v=VcdtaRuI_wA
@@ -17,8 +17,6 @@ The Other Side of the Wall | https://www.youtube.com/watch?v=72_Z-JCxacY
 Overdose | https://www.youtube.com/watch?v=dtN5DJ9Gvh4
 Hex | https://www.youtube.com/watch?v=2BeDX97m26M
 Tsukiakari No Michishirube | https://www.youtube.com/watch?v=sSLtqAr32rA
-YOASOBI「アイドル」 (idol) Official Music Video | https://www.youtube.com/watch?v=ZRtdQ81jPUQ
-YOASOBI Gunjou / Gunjō 群青 (ultramarine) | https://www.youtube.com/watch?v=NyUTYwZe_l4
 BLUE feat. kojikoji | https://www.youtube.com/watch?v=YnnryUwfSE0
 Shigeo Sekito - The word II, is so damn good #CLASSICAL #JAPAN | https://www.youtube.com/watch?v=sUD7ICphL1k
 Black Rover | https://www.youtube.com/watch?v=V_yI8Tjx_Xo
@@ -45,6 +43,8 @@ Aiobahn - heart 2 heart |
 Aiobahn feat. KOTOKO - INTERNET YAMERO |
 RetBear - Atamannaka DEAD END | https://www.youtube.com/watch?v=unLtq0BpEQc
 ReoNa, Hiroyuki Sawano - time | https://www.youtube.com/watch?v=mCfYrlc_OcY
+YOASOBI アイドル (idol) Official Music Video | https://www.youtube.com/watch?v=ZRtdQ81jPUQ
+YOASOBI Gunjou / Gunjō 群青 (ultramarine) | https://www.youtube.com/watch?v=NyUTYwZe_l4
 YOASOBI - Probably ( たぶん ) (Tabun) |
 YOASOBI - Racing into the Night (夜に駆ける) (Yoru ni Kakeru) |
 YOASOBI - Monster ( Opening : Beastars Season 2 ) |
