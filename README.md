@@ -22,15 +22,15 @@ Shigeo Sekito - The word II, is so damn good #CLASSICAL #JAPAN | https://www.you
 Black Rover | https://www.youtube.com/watch?v=V_yI8Tjx_Xo
 BRADIO - Golden Liar (OFFICIAL VIDEO) | https://www.youtube.com/watch?v=saOq9S8mfSc
 喜劇 | https://www.youtube.com/watch?v=URR_Nv-6MZs
-DADARAY 「イキツクシ」 | https://www.youtube.com/watch?v=RVwj5o7AUxc
-Kanon Wakeshima~Still Doll *Instrumental* (No back vocals) | https://www.youtube.com/watch?v=ZYlfvye6X64
+DADARAY イキツクシ | https://www.youtube.com/watch?v=RVwj5o7AUxc
+Kanon Wakeshima Still Doll Instrumental (No back vocals) | https://www.youtube.com/watch?v=ZYlfvye6X64
 分島花音 [Kanon Wakeshima] - ツキナミ [Tsukinami] (FULL ALBUM) | https://www.youtube.com/watch?v=Z-4P3w2I814
 Inside Joke/ZUTOMAYO - lyrics [Kanji, Romaji, ENG] | https://www.youtube.com/watch?v=GC6PToGvCvg
 Yume Utsutsu | https://www.youtube.com/watch?v=AJdTBPuZkHU
 syudouギャンブル | https://www.youtube.com/watch?v=7GBn6IuTQ6w
-MILGRAM -ミルグラム- / エス「アンダーカバー」MV | https://www.youtube.com/watch?v=CZn-dx4O4gA
-TVアニメ「黒の召喚士」OPムービーレトベア（unknown Vo：10fu）「頭ん中DEAD END」 | https://www.youtube.com/watch?v=wj_gULGftds
-TVアニメ「月が導く異世界道中」ノンクレジットOP / syudou「ギャンブル」 | https://www.youtube.com/watch?v=EcAEWAQR9M4
+MILGRAM -ミルグラム- / エス アンダーカバー MV | https://www.youtube.com/watch?v=CZn-dx4O4gA
+TVアニメ 黒の召喚士 OP ムービーレトベア（ unknown Vo：10fu ）頭ん中DEAD END | https://www.youtube.com/watch?v=wj_gULGftds
+TVアニメ 月が導く異世界道中 ノンクレジットOP / syudou ギャンブル | https://www.youtube.com/watch?v=EcAEWAQR9M4
 憧憬と屍の道 ( Opening: SNK ) | https://www.youtube.com/watch?v=czJHHta2vz8
 Starline (feat. Sennzai) | https://www.youtube.com/watch?v=WTZR8LdfWtI
 Kaguya | https://www.youtube.com/watch?v=jKklqiRhY1o
@@ -52,7 +52,8 @@ YOASOBI - Kaibutsu |
 Hanatan - Senbonzakura (千本桜) |
 Ado - うっせぇわ (Usseewa) | https://www.youtube.com/watch?v=Qp3b-RXtz4w
 Never Stop (feat. Laco) | https://www.youtube.com/watch?v=dH7DQfDAR4A
-Lone Alpha - Repeat (feat. Rachie) |
+Lone Alpha - Repeat (feat. Rachie) | https://www.youtube.com/watch?v=nr55U7Ae_fE
+Lone Alpha - Seasons \(feat. Shiki Miyoshino\) | https://www.youtube.com/watch?v=TpJArMwbcPk
 Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://www.youtube.com/watch?v=oKuhRPtwm9M
 Lanndo, Reol - No title ( Seaside Remix ) | https://www.youtube.com/watch?v=xPrygGM4iTc
 REOL - 宵々古今 / YoiYoi Kokon | https://www.youtube.com/watch?v=76k8Ipst5dE
@@ -126,4 +127,5 @@ id|name
 name|url
 -|-
 \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음 | https://www.youtube.com/watch?v=QW79sOKEOvk
-Reol Playlist 【れをる メドレー 】| https://www.youtube.com/watch?v=76k8Ipst5dE
+Reol Playlist れをる メドレー | https://www.youtube.com/watch?v=76k8Ipst5dE
+Alohaii / Lone Alpha - Virtual Paradise [Full Album] | https://www.youtube.com/watch?v=Faxp1cwhP-4
