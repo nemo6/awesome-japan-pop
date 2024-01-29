@@ -122,6 +122,7 @@ id|name
 35 | Amber's Official Channel
 37 | HIGH and MIGHTY COLOR
 38 | Mili
+39 | millennium parade
 
 # PLAYLIST
 
