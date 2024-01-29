@@ -128,6 +128,7 @@ id|name
 
 name|url
 -|-
+1 Hour PSYQUI Vol. 2 | https://www.youtube.com/watch?v=HJGXEklzMso
 \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음 | https://www.youtube.com/watch?v=QW79sOKEOvk
 Reol Playlist れをる メドレー | https://www.youtube.com/watch?v=76k8Ipst5dE
 Alohaii / Lone Alpha - Virtual Paradise [Full Album] | https://www.youtube.com/watch?v=Faxp1cwhP-4
