@@ -134,5 +134,7 @@ Reol Playlist れをる メドレー | https://www.youtube.com/watch?v=76k8Ipst5
 Alohaii / Lone Alpha - Virtual Paradise [Full Album] | https://www.youtube.com/watch?v=Faxp1cwhP-4
 
 # PLAYLIST ( OTHER )
+name|url
+-|-
 Lo-fi Tranquil Vibes: Embrace the Serene | https://www.youtube.com/watch?v=rvb7kmqb888
 Badass Phonk That Make You Do Your Workout Now | https://www.youtube.com/watch?v=8LYcJDdTXXA
