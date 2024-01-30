@@ -132,3 +132,7 @@ name|url
 \[Playlist\] 피곤한 일상으로부터 신나게 해줄 우타이테 모음 | https://www.youtube.com/watch?v=QW79sOKEOvk
 Reol Playlist れをる メドレー | https://www.youtube.com/watch?v=76k8Ipst5dE
 Alohaii / Lone Alpha - Virtual Paradise [Full Album] | https://www.youtube.com/watch?v=Faxp1cwhP-4
+
+# PLAYLIST ( OTHER )
+Lo-fi Tranquil Vibes: Embrace the Serene | https://www.youtube.com/watch?v=rvb7kmqb888
+Badass Phonk That Make You Do Your Workout Now | https://www.youtube.com/watch?v=8LYcJDdTXXA
