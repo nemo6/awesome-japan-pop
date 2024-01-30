@@ -58,6 +58,7 @@ Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx) | https://
 Lanndo, Reol - No title ( Seaside Remix ) | https://www.youtube.com/watch?v=xPrygGM4iTc
 REOL - 宵々古今 / YoiYoi Kokon | https://www.youtube.com/watch?v=76k8Ipst5dE
 Kagamine Len feat. the Girls - Plus Danshi | https://www.youtube.com/watch?v=RIA-vEJB1Aw
+Hitogoto, Ina - Believing and Being - 信仰と存在 (feat. 否) | https://www.youtube.com/watch?v=yYn2rbNSlyw
 
 # PSYQUI
 
