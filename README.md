@@ -125,6 +125,7 @@ id|name
 37 | HIGH and MIGHTY COLOR
 38 | Mili
 39 | millennium parade
+40 | Miyashita Yuu
 
 # PLAYLIST
 
